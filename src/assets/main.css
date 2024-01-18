@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Satisfy", cursive;
+  font-size: 25px;
+}
+
+body {
+  margin: 0 auto;
+  background-color: #333;
+  padding: 0 100px;
+}
+
+svg {
+  cursor: pointer;
+}
+
+@media (max-width: 800px) {
+  body {
+    padding: 0 70px;
+
+  }
+}
+
+@media (max-width: 400px) {
+  body {
+    padding: 0 20px;
+  }
+}

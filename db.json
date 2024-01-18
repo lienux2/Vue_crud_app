@@ -1,0 +1,85 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "destination": "The Eternal City",
+      "country": "Italy",
+      "city": "Rome",
+      "rating": 9,
+      "image": "https://images.pexels.com/photos/16353919/pexels-photo-16353919/free-photo-of-fontanna-di-trevi-in-rome-italy.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Rome, the eternal city, is a captivating destination that has gracefully stood the test of time. Its rich history is etched into every stone and cobblestone, creating a living museum of the ancient world. From the awe-inspiring Colosseum, where gladiators once battled, to the majestic Roman Forum, a political and cultural hub, and the iconic Trevi Fountain, Rome invites visitors to immerse themselves in the grandeur of its past. The Vatican, with its stunning architecture and priceless art collections, adds a spiritual dimension to this historic city, making it a must-visit for those seeking a journey through time."
+    },
+    {
+      "id": "3",
+      "destination": "The Lost City",
+      "country": "Peru",
+      "city": "Machu Picchu",
+      "rating": 10,
+      "image": "https://images.pexels.com/photos/17044910/pexels-photo-17044910/free-photo-of-man-looking-at-machu-picchu.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Machu Picchu, nestled high in the majestic Andes Mountains of Peru, is a breathtaking ancient city that has captured the imagination of travelers for centuries. This UNESCO World Heritage site is a testament to the ingenuity and craftsmanship of the Incas, with its awe-inspiring ruins of temples, palaces, and homes. Surrounded by the natural beauty of the Andean landscape, Machu Picchu offers a profound glimpse into the daily life and spiritual practices of this ancient civilization. The journey to Machu Picchu is not just a physical one but a spiritual and historical pilgrimage, leaving an indelible mark on all who venture to explore its wonders."
+    },
+    {
+      "id": "4",
+      "destination": "Island in the Aegean Sea",
+      "country": "Greece",
+      "city": "Santorini",
+      "rating": "95",
+      "image": "https://images.pexels.com/photos/13607891/pexels-photo-13607891.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Santorini, a breathtaking island in the Aegean Sea, has been enchanting visitors for centuries with its postcard-perfect landscapes. Whitewashed villages perched on dramatic cliffs, overlooking the azure waters, and the mesmerizing sunsets create an unforgettable destination. The charming streets of Fira and Oia beckon travelers to wander and explore, while the unique black sand beaches provide a tranquil escape. Amidst this picturesque setting, the ancient ruins of Akrotiri offer a glimpse into Santorini's fascinating history, making it a destination that seamlessly combines natural beauty and cultural richness."
+    },
+    {
+      "id": "5",
+      "destination": "A Spiritual Journey",
+      "country": "India",
+      "city": "Varanasi",
+      "rating": "1000000000",
+      "image": "https://images.pexels.com/photos/11473369/pexels-photo-11473369.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Varanasi, a holy city for Hindus, stands as one of the holiest places on earth. Pilgrims from all corners of India embark on a sacred journey to bathe in the purifying waters of the Ganges River, believing it will cleanse them of their sins. Beyond its spiritual significance, Varanasi is adorned with ancient temples and shrines, each narrating tales of a bygone era. The city's vibrant and chaotic ghats, where life unfolds against the backdrop of the sacred river, add a unique charm. Varanasi is a fascinating destination, offering not just a travel experience but a profound immersion into the heart of Hindu culture and spirituality."
+    },
+    {
+      "id": "6",
+      "destination": "City of Lights",
+      "country": "France",
+      "city": "Paris",
+      "rating": 8,
+      "image": "https://images.pexels.com/photos/13017777/pexels-photo-13017777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Paris, often referred to as the 'City of Lights,' is a mesmerizing tapestry of art, fashion, and gastronomy. The iconic Eiffel Tower, the timeless beauty of the Louvre Museum, and the majestic Notre-Dame Cathedral are just a few landmarks that define the allure of Paris. Strolling along the Seine River, exploring the charming streets of Montmartre, and indulging in delectable French cuisine create an enchanting experience. Paris is not merely a destination; it's a celebration of culture, elegance, and the finer things in life, inviting visitors to immerse themselves in its timeless charm."
+    },
+    {
+      "id": "7",
+      "destination": "Historical Charm",
+      "country": "Portugal",
+      "city": "Lisbon",
+      "rating": 9,
+      "image": "https://images.pexels.com/photos/15362662/pexels-photo-15362662/free-photo-of-monochrome-shot-of-equestrian-statue-of-d-jose-i-in-lisbon.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Lisbon, the capital of Portugal, unfolds like a storybook, exuding historical charm at every turn. Narrow cobblestone streets wind through neighborhoods adorned with colorful tiles, creating a captivating backdrop. The city's ancient architecture, from the historic districts of Alfama to the bustling energy of Baixa, paints a vivid picture of its past. The panoramic views from São Jorge Castle offer a glimpse into Lisbon's rich maritime history. Lisbon is a destination where time seems to stand still, inviting travelers to traverse its streets and alleys, uncovering the layers of a city steeped in tradition and allure."
+    },
+    {
+      "id": "8",
+      "destination": "Natural Paradise",
+      "country": "New Zealand",
+      "city": "Queenstown",
+      "rating": 9.5,
+      "image": "https://images.pexels.com/photos/9485548/pexels-photo-9485548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Queenstown, nestled on the shores of the pristine Lake Wakatipu, is a natural paradise surrounded by the majestic Southern Alps. Renowned for its adventure sports and breathtaking landscapes, Queenstown offers an array of activities, from heart-pounding bungee jumping to exhilarating skiing and serene hiking trails. The serenity of the lake and the grandeur of the mountains create a picturesque setting that captivates the soul. Queenstown is not just a destination for thrill-seekers but a haven for those seeking solace in the embrace of nature's wonders, making it a perfect blend of adrenaline and tranquility."
+    },
+    {
+      "id": "9",
+      "destination": "Cultural Melting Pot",
+      "country": "Japan",
+      "city": "Tokyo",
+      "rating": 8.5,
+      "image": "https://images.pexels.com/photos/1654748/pexels-photo-1654748.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Tokyo, the dynamic capital of Japan, stands as a vibrant metropolis where tradition meets cutting-edge technology. The historic Asakusa district showcases ancient temples, including the iconic Senso-ji, inviting visitors to step back in time. In contrast, the high-tech Akihabara district pulsates with the energy of modern innovation and pop culture. Tokyo's unique blend of old and new creates a cultural melting pot, where centuries-old traditions coexist seamlessly with futuristic skyscrapers. Exploring the bustling streets, indulging in sushi delights, and experiencing the dynamic energy of Tokyo make it a city that promises a kaleidoscopic journey through Japan's rich cultural tapestry."
+    },
+    {
+      "id": "deb0",
+      "destination": "Test Test Test",
+      "country": "TestTest",
+      "city": "Test Test",
+      "image": "https://koala.sh/api/image/v2-2i1jj-e8uqo.jpg?width=1024&height=1024&dream",
+      "description": "Test Test Test 123123123 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.",
+      "rating": "12"
+    }
+  ]
+}
